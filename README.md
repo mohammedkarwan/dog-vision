@@ -1,6 +1,7 @@
 🐶 Dog Vision - Image Classification with Deep Learning
+---
 An end-to-end deep learning project for classifying dog breeds using convolutional neural networks and transfer learning. This project applies modern computer vision techniques to accurately identify dog breeds from images.
-
+___
 📌 Objective
 To develop a robust image classification model capable of identifying various dog breeds using supervised learning and deep convolutional architectures.
 ___
